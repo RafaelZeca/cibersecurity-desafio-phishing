@@ -16,6 +16,12 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
+
+
+### Resultado
+
+
+
 ### Observaçãos
 
 Recentemente, o Facebook está com uma defesa para esse método, então ao invés da opção 2 ""Site Cloner""" devemos escolher a opção 3 "" Custom Import" e salvar a página do facebook e atualizando com o código copiado atraves do view source. Foi um aluno da DIO que me ajudou, o Romullo Silva, aqui está o link de onde ele ensina https://www.dio.me/articles/sobre-o-setoolkit-e-o-facebook
